@@ -1,0 +1,69 @@
+#board{
+  align-content: center;
+}
+#rowone{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowtwo{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowthree{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowfour{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowfive{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowsix{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rowseven{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#roweight{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#rownine{
+  border: 4px solid black;
+  height: 150px;
+  width: 100px;
+  text-align: center;
+}
+#board{
+  width: 900px;
+}
+#jcontainer{
+  width: 90%;
+  content: center;
+}
+
+#board h1{
+  font-size: 100px;
+  color: white;
+}
